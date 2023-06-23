@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "quarto-tutorial",
     "section": "",
-    "text": "In this project we aim to visualize the trends of the most frequently used babynames from 1880 to 2017 in the United States. We do this by:\n\nUnderstanding the different columns of the data set\nFind the top 10 most frequently used baby names in the data for:\n\ngirls\nboys\n\nPlot the yearly trend of the top 10 baby names"
+    "text": "DOI\n\n\nIn this project we aim to visualize the trends of the most frequently used babynames from 1880 to 2017 in the United States. We do this by:\n\nUnderstanding the different columns of the data set\nFind the top 10 most frequently used baby names in the data for:\n\ngirls\nboys\n\nPlot the yearly trend of the top 10 baby names"
   },
   {
     "objectID": "about.html",
