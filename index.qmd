@@ -2,7 +2,7 @@
 title: "quarto-tutorial"
 ---
 
-[![DOI](https://zenodo.org/badge/657627364.svg)](https://zenodo.org/badge/latestdoi/657627364)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8091208.svg)](https://doi.org/10.5281/zenodo.8091208)
 
 
 In this project we aim to visualize the trends of the most frequently used babynames from 1880 to 2017 in the United States. We do this by:
